@@ -21,11 +21,12 @@
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="hw3.gif" width=250><br>
 
 ### Notes
 
 Describe any challenges encountered while building the app.
+I was unable to create an API key through https://console.developers.google.com/. I reached out to the support channel but the problem didn't end up getting fixed. But I completed all other code except for the YouTube video except for that API key, so in the gif the YouTube didn't display as expected.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
